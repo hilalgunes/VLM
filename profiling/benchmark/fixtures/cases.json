@@ -1,0 +1,20 @@
+[
+  {
+    "id": "count_en",
+    "image": "shapes.png",
+    "prompt": "How many blue circles are in the image? Reply with only the number.",
+    "expected": "2"
+  },
+  {
+    "id": "ocr_en",
+    "image": "ocr.png",
+    "prompt": "Read the four-digit code in the image. Reply with only the four digits.",
+    "expected": "4827"
+  },
+  {
+    "id": "count_tr",
+    "image": "shapes.png",
+    "prompt": "Görselde kaç mavi daire var? Yalnızca sayıyı yaz.",
+    "expected": "2"
+  }
+]

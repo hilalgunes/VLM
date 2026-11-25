@@ -1,0 +1,7 @@
+{
+  "model": "qwen",
+  "cause": "The original host watchdog had a 1200 second limit. Eight complete records were preserved; the ninth was interrupted.",
+  "recovery": "Restarted native engine with a fresh excluded warm-up; previously completed requests skipped.",
+  "preserved_runs": 8,
+  "additional_expected_runs": 1
+}

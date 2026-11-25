@@ -1,0 +1,30 @@
+[
+  {
+    "repo": "ggml-org/SmolVLM2-500M-Video-Instruct-GGUF",
+    "revision": "ccd7aae53bcb1997355c2f094959e72b3642ce17",
+    "file": "SmolVLM2-500M-Video-Instruct-Q8_0.gguf",
+    "size_bytes": 436808704,
+    "sha256": "6f67b8036b2469fcd71728702720c6b51aebd759b78137a8120733b4d66438bc"
+  },
+  {
+    "repo": "ggml-org/SmolVLM2-500M-Video-Instruct-GGUF",
+    "revision": "ccd7aae53bcb1997355c2f094959e72b3642ce17",
+    "file": "mmproj-SmolVLM2-500M-Video-Instruct-Q8_0.gguf",
+    "size_bytes": 108785184,
+    "sha256": "921dc7e259f308e5b027111fa185efcbf33db13f6e35749ddf7f5cdb60ef520b"
+  },
+  {
+    "repo": "ggml-org/Qwen2.5-VL-3B-Instruct-GGUF",
+    "revision": "5037fcf163dd95d1e41d1974465f0898ed108ca2",
+    "file": "Qwen2.5-VL-3B-Instruct-Q4_K_M.gguf",
+    "size_bytes": 1929901056,
+    "sha256": "d02fe9b69ad8cadbbd228e387667af66612c44bed29ffc8eb1e7caf9ac486c12"
+  },
+  {
+    "repo": "ggml-org/Qwen2.5-VL-3B-Instruct-GGUF",
+    "revision": "5037fcf163dd95d1e41d1974465f0898ed108ca2",
+    "file": "mmproj-Qwen2.5-VL-3B-Instruct-Q8_0.gguf",
+    "size_bytes": 844757728,
+    "sha256": "980c9b2f78c04e6cff93d277ada09e768394f112d75db3b4e9dea8a69f9fb904"
+  }
+]

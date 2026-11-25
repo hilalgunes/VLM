@@ -1,0 +1,17 @@
+[
+  {
+    "file": "cases.json",
+    "sha256": "6fa473bbb695fc00f371929252c4d4788366b572032ad1cf18a8473ead43e0a2",
+    "bytes": 481
+  },
+  {
+    "file": "ocr.png",
+    "sha256": "4ba8b023db29c58bbc99b26e737cc494aee183092d095cae0db8d9975bb06f0d",
+    "bytes": 4141
+  },
+  {
+    "file": "shapes.png",
+    "sha256": "dbd5252575ddd6b14eb46a8aec1a3fbe84a795aebe63be125e93adb78d9fa8c1",
+    "bytes": 4412
+  }
+]

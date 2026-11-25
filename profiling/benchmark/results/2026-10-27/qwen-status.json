@@ -1,0 +1,9 @@
+{
+  "model": "qwen",
+  "exit_code": 0,
+  "timed_out": false,
+  "rows": 9,
+  "expected_rows": 9,
+  "errors": [],
+  "wall_seconds": 183.07
+}

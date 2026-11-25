@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-27",
+  "llama_commit": "de5122d879d00d2895c36be7e0cee94105aeeabd",
+  "repeats": 3,
+  "device": "SM-N975F\nuniversal9825\n31\n100\nMemTotal:       11692324 kB\nMemFree:         1271116 kB\nMemAvailable:    7886072 kB\n",
+  "gpu_counter_scope": "whole_device",
+  "protocol": "loaded-engine, one excluded warmup, independent conversations, greedy, max64, context4096, 4 CPU threads, 3s between requests",
+  "vision_backends": {
+    "gemma": "GPU",
+    "smol": "CPU",
+    "qwen": "CPU"
+  },
+  "snapshot_note": "This metadata snapshot was refreshed at Qwen resume start. Per-session temperature and memory samples are preserved in CSV files."
+}

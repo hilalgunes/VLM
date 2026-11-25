@@ -1,0 +1,53 @@
+[
+  {
+    "key": "smol",
+    "model": "SmolVLM2-500M-Q8_0",
+    "runtime": "llama.cpp de5122d CPU / 4 threads",
+    "runs": 9,
+    "errors": 0,
+    "exact_correct": 3,
+    "numeric_correct": 3,
+    "first_token_s_median": 12.579485453,
+    "total_s_median": 12.870958337,
+    "peak_rss_gib": 0.7569580078125,
+    "cpu_percent_8_cores_median": 49.50337631336811,
+    "device_gpu_mean_percent": 0.03225806451612903,
+    "device_gpu_peak_percent": 3.0,
+    "battery_temp_c_min": 24.2,
+    "battery_temp_c_max": 29.0
+  },
+  {
+    "key": "gemma",
+    "model": "gemma-3n-E2B",
+    "runtime": "LiteRT-LM 0.18.1 CPU + GPU vision",
+    "runs": 9,
+    "errors": 0,
+    "exact_correct": 9,
+    "numeric_correct": 9,
+    "first_token_s_median": 8.549240071,
+    "total_s_median": 8.576318532,
+    "peak_rss_gib": 2.718914031982422,
+    "cpu_percent_8_cores_median": 33.69896902940223,
+    "device_gpu_mean_percent": 27.692307692307693,
+    "device_gpu_peak_percent": 100.0,
+    "battery_temp_c_min": 29.2,
+    "battery_temp_c_max": 31.4
+  },
+  {
+    "key": "qwen",
+    "model": "Qwen2.5-VL-3B-Q4_K_M",
+    "runtime": "llama.cpp de5122d CPU / 4 threads",
+    "runs": 9,
+    "errors": 0,
+    "exact_correct": 9,
+    "numeric_correct": 9,
+    "first_token_s_median": 125.616515641,
+    "total_s_median": 127.07798179400001,
+    "peak_rss_gib": 2.946075439453125,
+    "cpu_percent_8_cores_median": 49.45427424794303,
+    "device_gpu_mean_percent": 0.0,
+    "device_gpu_peak_percent": 0.0,
+    "battery_temp_c_min": 26.0,
+    "battery_temp_c_max": 36.7
+  }
+]
